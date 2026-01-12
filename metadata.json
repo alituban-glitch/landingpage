@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Nasi Goreng Nusantara Landing Page",
+  "description": "A premium, high-converting landing page for a specialized fried rice brand, featuring a Gemini-powered menu assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
